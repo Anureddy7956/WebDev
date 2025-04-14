@@ -1,0 +1,12 @@
+h1 {
+    color:peru;
+}
+h2 {
+    color:palevioletred;
+    text-align: right;
+}
+.my-container{
+    height: 70vh;
+    background-color: black;
+    text-align: center;
+}
