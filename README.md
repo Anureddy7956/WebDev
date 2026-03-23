@@ -16,3 +16,7 @@
 # Counter Page
 <img width="1909" height="1073" alt="image" src="https://github.com/user-attachments/assets/551a0432-c514-4e25-9523-b96cde611d79" />
 
+# Simple Quiz Page
+<img width="1909" height="1073" alt="image" src="https://github.com/user-attachments/assets/fa491814-2c59-4ec8-b56c-188de78ecf56" />
+
+
