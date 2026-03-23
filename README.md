@@ -9,3 +9,10 @@
 # Cat Photo App
 <img width="1909" height="1073" alt="image" src="https://github.com/user-attachments/assets/ffac6615-d60d-438e-a71e-1d8416d788d0" />
 
+## Basic html ,css and js Pages
+# 3d Page of bottel (using splin)
+<img width="1909" height="1073" alt="image" src="https://github.com/user-attachments/assets/4937a7e3-2d36-4112-adea-efd6e30c2dbc" />
+
+# Counter Page
+<img width="1909" height="1073" alt="image" src="https://github.com/user-attachments/assets/551a0432-c514-4e25-9523-b96cde611d79" />
+
